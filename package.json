@@ -4,7 +4,7 @@
     "description": "Simple document/payload signing and verifying",
     "main": "index.js",
     "bin": {
-        "rsa-sign": "rsa-sign.js"
+        "rsa-sign": "./bin/rsa-sign.js"
     },
     "dependencies": {
         "commander": "2.6.0"
